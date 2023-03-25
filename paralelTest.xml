@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="/Users/larisazgircha/Desktop/git Practice/testNGBasics/src/test/java/class01/priority.java">
+        <classes>
+            <class name="class01.assertionBasic"></class>
+            <class name="class02.softAssertionExample"></class>
+        </classes>
+    </test>
+</suite>
